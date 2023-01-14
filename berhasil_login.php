@@ -15,7 +15,7 @@ if (!isset($_SESSION['username'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
  
-    <link rel="stylesheet" type="text/css" href="style_php.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style_php.css">
     <meta content=”5; url=index.html” http-equiv=”refresh”>
     <title>Berhasil Login</title>
 </head>

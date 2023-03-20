@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="assets/css/Inter.css">
     <link rel="stylesheet" href="assets/css/Articles-Badges.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.css">
+    <link rel="icon" href="assets/img/logoonlymikecomputer-01.png" type="image/x-icon">
 </head>
 
 <body style="/*background: url(&quot;design.jpg&quot;);*/background-position: 0 -60px;">
@@ -48,15 +49,176 @@
     </header>
     <section class="py-5">
         <div class="container py-4 py-xl-5">
+            <h1 class="mb-5 text-center mx-auto">About Me</h1>
             <div class="row mb-5">
-                <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <h1 class="fs-1">About Me</h1>
-                    <div></div>
+                <div class="col-6 col-xxl-5 offset-xxl-1 text-center"><img class="rounded img-fluid d-block align-items-xxl-center" sizes="80%" src="assets/img/me.jpg"></div>
+                <div class="col-md-6 col-xl-6 text-center mx-auto">
                     <p class="fs-5 w-lg-50"><span style="color: rgb(138, 138, 138);">I Gusti Agung Michael Swisnandya is a student who is enthusiastic about photography and videography. Since the age of four years he has known technology from his father, ranging from computer equipment to the current device that he learned self-taught because at that time IT teachers were still not many. Everything can not be separated because of a very high desire to explore something new and suitable for him. Therefore, all his efforts are never in vain because of his persistence what he wants he can achieve even though the way to achieve it is not as easy as others think.</span><br><br></p>
                 </div>
-                <div class="col-4 col-xxl-5 offset-xxl-1 text-center"><img class="rounded img-fluid d-xxl-flex align-items-xxl-center" src="assets/img/me.jpg" sizes="90%"></div>
             </div>
         </div>
+
+        <div class="container">
+        <div class="col-md-2 col-xl-6 text-center mx-auto mb-5">
+                    <p class="fw-bold text-success mb-2">Experiences</p>
+                    <h3 class="fw-bold">What is My Experiences?</h3>
+                </div>
+    <div class="row mb-2">
+      <div class="col-md-6">
+        <h3 class="fw-bold">Job & Internship Experience</h3>
+        <div class="container">
+    <div id="accordion">
+    <div class="card">
+      <div class="card-header">
+        <a class="btn" data-bs-toggle="collapse" href="#collapseOne">
+          Founder · Mike Computer
+        </a>
+      </div>
+      <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+            <h5 class="card-title">Founder</h5>
+            <p>Mike Computer · Self Employment</p>
+            <small class="text-muted">Jan 2022 - Present</small><br>
+            <small class="text-muted">Singaraja, Bali, Indonesia · On Site</small>
+          </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+        Freelance · Balipuspanews.com
+      </a>
+      </div>
+      <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+            <h5 class="card-title">Freelance Videographer</h5>
+            <p>Balipuspanews.com · Freelancer</p>
+            <small class="text-muted">Oct 2020 - Jan 2021 · 4 mos</small><br>
+            <small class="text-muted">Gianyar, Bali, Indonesia · Hybrid</small>
+          </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+        Internship · Gusde Photography
+        </a>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+            <h5 class="card-title">Video Editor Internship</h5>
+            <p>Gusde Photography · Internship</p>
+            <small class="text-muted">Jan 2020 - 2023 · 3 mos</small><br>
+            <small class="text-muted">Denpasar, Bali, Indonesia · On Site</small>
+          </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseFour">
+        Internship · Tribun Bali
+        </a>
+      </div>
+      <div id="collapseFour" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+            <h5 class="card-title">Graphic Design Internship</h5>
+            <p>Tribun Bali · Internship</p>
+            <small class="text-muted">Oct 2019 - Dec 2019 · 3 mos</small><br>
+            <small class="text-muted">Gianyar, Bali, Indonesia · On Site</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <div class="col-md-6">
+    <div class="row">
+      <div class="col-md-6">
+        <h3 class="fw-bold">Technical Skills</h3>
+        <small>Photography</small>
+        <div class="progress mb-2">
+          <div class="progress-bar" role="progressbar" style="width: 92%;" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100">92%</div>
+        </div>
+        <small>Videography</small>
+        <div class="progress mb-2">
+          <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">85%</div>
+        </div>
+        <small>Graphic Design</small>
+        <div class="progress mb-2">
+          <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h3 class="fw-bold">Soft Skills</h3>
+        <small>Communication</small>
+        <div class="progress mb-2">
+          <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+        </div>
+        <small>Problem Solving</small>
+        <div class="progress mb-2">
+          <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
+        </div>
+        <small>Teamworks</small>
+        <div class="progress mb-2">
+          <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+        </div>
+      </div>
+    </div>
+      </div>
+      <div class="row gy-4">
+        <div class="col-md-6">
+          <h3 class="fw-bold">Education</h3>
+          <div class="container">
+    <div id="accordion1">
+    <div class="card">
+      <div class="card-header">
+        <a class="btn" data-bs-toggle="collapse" href="#collapseSt">
+        Bachelor · Universitas Pendidikan Ganesha
+        </a>
+      </div>
+      <div id="collapseSt" class="collapse" data-bs-parent="#accordion1">
+      <div class="card-body">
+            <h5 class="card-title">Informatics Education</h5>
+            <p>Students · Bachelor Programme</p>
+            <small class="text-muted">Jul 2021 - Present</small><br>
+            <small class="text-muted">GPA 3,86</small><br>
+            <small class="text-muted">Singaraja, Bali, Indonesia</small>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseNd">
+        High School · SMK Negeri 1 Denpasar
+      </a>
+      </div>
+      <div id="collapseNd" class="collapse" data-bs-parent="#accordion1">
+      <div class="card-body">
+            <h5 class="card-title">Multimedia</h5>
+            <p>Graduate · Vocational High School</p>
+            <small class="text-muted">Jul 2018 - Jun 2021</small><br>
+            <small class="text-muted">Denpasar, Bali, Indonesia</small>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+
+
+        <div class="col-md-6">
+          <h3 class="fw-bold">Volunteer Experience</h3>
+          <ul>
+            <li>TBA</li>
+            <li>TBA</li>
+            <li>TBA</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
         <div class="container bg-primary-gradient py-5">
             <div class="row">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
@@ -170,8 +332,8 @@
                                     <path fill-rule="evenodd" d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"></path>
                                 </svg></div>
                             <div class="px-2">
-                                <h6 class="fw-bold mb-0">Email</h6>
-                                <a href="mailto:mikeswisnandya@gmail.com" target="_parent" class="text-muted mb-0">mikeswisnandya@gmail.com</a>
+                                <h6 class="fw-bold mb-0">E-mail</h6>
+                                <a href="mailto:info@gungmichael.my.id" target="_parent" class="text-muted mb-0">info@gungmichael.my.id</a>
                             </div>
                         </div>
                         <div class="d-flex align-items-center p-3">
@@ -194,17 +356,17 @@
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
                     <h3 class="fs-6 fw-bold">Services</h3>
                     <ul class="list-unstyled">
-                        <li><a href="https://www.instagram.com/mike.potret">Photographer</a></li>
-                        <li><a href="#">Videographer</a></li>
-                        <li><a href="#">PC Repairer</a></li>
+                        <li><a href="#contacts">Contacts</a></li>
+                        <li><a href="http://www.google.com/policies/privacy">Privacy Policy</a></li>
+                        <li><a href="sitemap.php">Sitemap</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
-                    <h3 class="fs-6 fw-bold">About</h3>
+                    <h3 class="fs-6 fw-bold">Other Sites</h3>
                     <ul class="list-unstyled">
-                        <li><a href="gallery.html">Gallery</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="https://blog.gungmichael.my.id/">Blog</a></li>
+                        <li><a href="https://repair.gungmichael.my.id/">Mike Computer</a></li>
+                        <li><a href="https://jokiby.gungmichael.my.id/">Joki by Gung Michael</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 offset-xl-2 text-center text-lg-start d-flex flex-column align-items-center order-first align-items-lg-start order-lg-last item social">
@@ -230,6 +392,7 @@
             </div>
         </div>
     </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.js"></script>

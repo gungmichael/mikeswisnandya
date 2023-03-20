@@ -18,19 +18,11 @@
                 </span><span>Mike Swisnandya</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="competences.html">Competences</a></li>
-                    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contacts.html">Contacts</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Social Media</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="https://www.instagram.com/gungmichael">Instagram</a></li>
-                            <li><a class="dropdown-item" href="https://www.facebook.com/gungmichael">Facebook</a></li>
-                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/gungmichael">Linkedin</a></li>
-                        </ul>
-                    </li>
+                    <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="competences.php">Competences</a></li>
+                    <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contacts">Contacts</a></li>
                 </ul>
             </div>
         </div>
@@ -82,7 +74,7 @@
                                         <path d="M2 4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-1.172a2 2 0 0 1-1.414-.586l-.828-.828A2 2 0 0 0 9.172 2H6.828a2 2 0 0 0-1.414.586l-.828.828A2 2 0 0 1 3.172 4H2zm.5 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1zm9 2.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0z"></path>
                                     </svg></div>
                                 <h5 class="fw-bold card-title">Photographer</h5>
-                                <p class="text-muted card-text mb-4">I have been in the field of photography for the last 6 years, many portfolios that I have produced during this time.</p><button class="btn btn-primary shadow" sr type="button">Learn more</button>
+                                <p class="text-muted card-text mb-4">I have been in the field of photography for the last 6 years, many portfolios that I have produced during this time.</p><button class="btn btn-primary shadow" sr type="button"><a href="https://www.instagram.com/gungmichael">Learn more</a></button>
                             </div>
                         </div>
                     </div>
@@ -93,7 +85,7 @@
                                         <path fill-rule="evenodd" d="M0 5a2 2 0 0 1 2-2h7.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 4.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 13H2a2 2 0 0 1-2-2V5z"></path>
                                     </svg></div>
                                 <h5 class="fw-bold card-title">Videographer</h5>
-                                <p class="text-muted card-text mb-4">It's just a hobby, but often accepts videography offers when asked by clients.</p><button class="btn btn-primary shadow" type="button">Learn more</button>
+                                <p class="text-muted card-text mb-4">It's just a hobby, but often accepts videography offers when asked by clients.</p><button class="btn btn-primary shadow" type="button"><a href="https://www.youtube.com/watch?v=XZLFUHNPJu8&list=PL6PZBIekQVMtTyKaDTtIEbImmvphon6Cp">Learn more</a></button>
                             </div>
                         </div>
                     </div>
@@ -147,7 +139,7 @@
         <div class="container">
             <div class="row mb-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <p class="fw-bold text-success mb-2">Contacts</p>
+                    <p class="fw-bold text-success mb-2" id="contacts">Contacts</p>
                     <h2 class="fw-bold">How you can reach us</h2>
                 </div>
             </div>
@@ -223,7 +215,7 @@
             </div>
             <hr>
             <div class="text-muted d-flex justify-content-between align-items-center pt-3">
-                <p class="mb-0">Copyright © 2022 Mike Swisnandya</p>
+                <p class="mb-0">Copyright © 2023 Mike Swisnandya</p>
                 <ul class="list-inline mb-0">
                     <a class="list-inline-item" href="https://www.facebook.com/gungmichael" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-facebook">
                             <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"></path>

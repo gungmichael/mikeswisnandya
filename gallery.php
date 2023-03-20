@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Products - Mike Swisnandya</title>
+    <title>Gallery - Mike Swisnandya</title>
     <meta name="description" content="Photography Portfolios">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/Inter.css">
@@ -19,19 +19,10 @@
                     </svg></span><span>Mike Swisnandya</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="competences.html">Competences</a></li>
-                    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contacts.html">Contacts</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Social Media</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="https://www.instagram.com/gungmichael">Instagram</a></li>
-                            <li><a class="dropdown-item" href="https://www.facebook.com/gungmichael">Facebook</a></li>
-                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/gungmichael">Linkedin</a></li>
-                        </ul>
-                    </li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="competences.php">Competences</a></li>
+                    <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="gallery.php">Gallery</a></li>
                 </ul>
             </div>
         </div>
@@ -51,6 +42,9 @@
                     <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/crehaprojects.jpg"></a></div>
                     <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/yeyo3.jpg"></a></div>
                     <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/yeyo2.jpg"></a></div>
+                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/3_1.jpg"></a></div>
+                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/2_1.jpg"></a></div>
+                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/4_1.jpeg"></a></div>
                 </div>
             </div>
         </section>
@@ -82,7 +76,7 @@
             </div>
             <hr>
             <div class="text-muted d-flex justify-content-between align-items-center pt-3">
-                <p class="mb-0">Copyright © 2022 Mike Swisnandya</p>
+                <p class="mb-0">Copyright © 2023 Mike Swisnandya</p>
                 <ul class="list-inline mb-0">
                     <a class="list-inline-item" href="https://www.facebook.com/gungmichael" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-facebook">
                             <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"></path>

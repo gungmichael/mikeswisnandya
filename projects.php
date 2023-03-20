@@ -18,19 +18,10 @@
                     </svg></span><span>Mike Swisnandya</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="competences.html">Competences</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="projects.html">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contacts.html">Contacts</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Social Media</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="https://www.instagram.com/gungmichael">Instagram</a></li>
-                            <li><a class="dropdown-item" href="https://www.facebook.com/gungmichael">Facebook</a></li>
-                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/gungmichael">Linkedin</a></li>
-                        </ul>
-                    </li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="competences.php">Competences</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="projects.php">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
                 </ul>
             </div>
         </div>
@@ -47,66 +38,66 @@
                 <div class="col mb-4">
                     <div><a href="https://www.instagram.com/p/Cg1XoBSLblZ/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/crehaprojects.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">J-Events</span>
-                            <h4 class="fw-bold">Klee from Genshin Impact</h4>
-                            <p class="text-muted"><span style="color: rgb(0, 0, 0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis feugiat massa. Vestibulum vestibulum, dui nec eleifend efficitur, quam orci accumsan odio, sit amet condimentum libero sapien et sapien.</span><br></p>
+                            <h4 class="fw-bold">Dokumentasi Hajimari no Recreate</h4>
+                            <p class="text-muted"><span style="color: rgb(0, 0, 0);">Saya bersama tim Kameko Bali dipercaya untuk membantu dokumentasi event pertama yang digagas oleh CreHA Projects (31/7/22).</span><br></p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/yeyo.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">J-Events</span>
-                            <h4 class="fw-bold">Cosplay Parade on Yeolyora no Matsuri</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <h4 class="fw-bold">Dokumentasi di Yeolyora no Matsuri</h4>
+                            <p class="text-muted">Saya turut mendokumentasikan kegiatan Yeolyora no Matsuri yang merupakan salah satu dari beberapa event jejepangan terbesar di Bali pasca diterapkannya New Normal (26/6/22).</p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="https://www.instagram.com/p/CfWdP6jLHYF/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/yeyo2.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">J-Events</span>
-                            <h4 class="fw-bold">Krul Tepes from Seraph of The End</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                    <div><a href="https://www.instagram.com/p/CfWdP6jLHYF/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/ptividprofil.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Video Projects</span>
+                            <h4 class="fw-bold">Produksi Video Profil Prodi di Undiksha</h4>
+                            <p class="text-muted">Saya juga menjadi bagian dari Tim Video Akreditasi Internasional Undiksha, dimana saya dan tim telah memproduksi beberapa video profil prodi, dan fakultas untuk mendukung proses akreditasi internasional Undiksha.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="https://www.instagram.com/p/Cfbk4N5pPoo/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/yeyo3.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">Events</span>
-                            <h4 class="fw-bold">Forger Family from SpyxFamily</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                    <div><a href="https://www.instagram.com/p/Cfbk4N5pPoo/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/brektortundks.jpeg" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Graphic Designs</span>
+                            <h4 class="fw-bold">Desain Spanduk Visitasi Akreditasi Internasional</h4>
+                            <p class="text-muted">Saya dipercaya untuk membuatkan beberapa desain untuk spanduk penyambutan asesor akreditasi internasional Undiksha yang telah berlangsung beberapa waktu lalu.</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/crehaprojects.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">Events</span>
-                            <h4 class="fw-bold">Lorem ipsum dolor sit amet</h4>
-                            <p class="text-muted"><span style="color: rgb(0, 0, 0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis feugiat massa. Vestibulum vestibulum, dui nec eleifend efficitur, quam orci accumsan odio, sit amet condimentum libero sapien et sapien.</span><br></p>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/wibupp2.jpeg" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">J-Events</span>
+                            <h4 class="fw-bold">Dokumentasi di Parade Cosplay Singaraja</h4>
+                            <p class="text-muted"><span style="color: rgb(0, 0, 0);">Saya dan komunitas Kameko Bali turut ambil bagian menjadi tim dokumentasi dalam acara parade cosplay yang digelar oleh komunitas Encore Alastair pada (11/2/23) di Pantai Penimbangan, Singaraja.</span><br></p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/yeyo.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">Events</span>
-                            <h4 class="fw-bold">Full Events Photos</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/tnku.jpeg" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Campus Projects</span>
+                            <h4 class="fw-bold">TenunKu</h4>
+                            <p class="text-muted">TenunKu adalah salah satu proyek yang saya kerjakan dalam memenuhi tugas Ujian Akhir Semester Mata Kuliah Pemrograman Web, TenunKu adalah sebuah website e-commerce yang berfokus pada pengenalan dan jual beli tenun.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/yeyo2.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">Events</span>
-                            <h4 class="fw-bold">Krul Tepes from Seraph of The End</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/ftq_game.jpeg" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Campus Projects</span>
+                            <h4 class="fw-bold">Fight the Questions</h4>
+                            <p class="text-muted">Fight the Questions adalah salah satu proyek yang saya dan teman sekelompok kerjakan dalam memenuhi tugas Ujian Akhir Semester Mata Kuliah Pemrograman Berbasis Objek (PBO).</p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/yeyo3.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">Events</span>
-                            <h4 class="fw-bold">Forger Family from SpyxFamily</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                    <div><a href="https://www.youtube.com/playlist?list=PL6PZBIekQVMtTyKaDTtIEbImmvphon6Cp"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/bsmpt.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Campus Projects</span>
+                            <h4 class="fw-bold">Bismapati Series</h4>
+                            <p class="text-muted">Saya merupakan salah satu dari beberapa orang yang ada di balik konten Bincang Bersama PTI (Bismapati). Bismapati merupakan kegiatan sharing session menghadirkan narasumber - narasumber yang dapat memotivasi mahasiswa pada khususnya dan masyarakat pada umumnya.</p>
                         </div>
                     </div>
                 </div>
@@ -140,7 +131,7 @@
             </div>
             <hr>
             <div class="text-muted d-flex justify-content-between align-items-center pt-3">
-                <p class="mb-0">Copyright © 2022 Mike Swisnandya</p>
+                <p class="mb-0">Copyright © 2023 Mike Swisnandya</p>
                 <ul class="list-inline mb-0">
                     <a class="list-inline-item" href="https://www.facebook.com/gungmichael" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-facebook">
                             <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"></path>

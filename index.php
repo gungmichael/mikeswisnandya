@@ -308,11 +308,14 @@
             <div class="row d-flex justify-content-center">
                 <div class="col-md-6 col-xl-4">
                     <div>
-                        <form class="p-3 p-xl-4" method="post">
+                        <form class="p-3 p-xl-4" action="<?php $_SERVER['PHP_SELF']?>" method="post">
+                            <?php if (!empty($notify)) { ?>
+                                <p class="notify <?php echo !empty($notifyClass)?$notifyClass:''; ?><?php echo $notify; ?>"></p>
+                            <?php } ?>
                             <div class="mb-3"><input class="form-control" type="text" id="name-1" name="name" placeholder="Name"></div>
                             <div class="mb-3"><input class="form-control" type="email" id="email-1" name="email" placeholder="Email"></div>
                             <div class="mb-3"><textarea class="form-control" id="message-1" name="message" rows="6" placeholder="Message"></textarea></div>
-                            <div><button class="btn btn-primary shadow d-block w-100" type="submit">Send </button></div>
+                            <div><button class="btn btn-primary shadow d-block w-100" id="submit" type="submit">Send </button></div>
                         </form>
                     </div>
                 </div>
@@ -401,3 +404,44 @@
 </body>
 
 </html>
+
+<?php
+$notify = '';
+$notifyClass = '';
+
+if (isset($_POST['submit'])) {
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+
+    if (!empty($email) && !empty($name) && !empty($message)) {
+        if (filter_var($email, FILTER_VALIDATE_EMAIL) === false) {
+            $notify = 'Email anda salah. Silahkan masukkan alamat email dengan benar!';
+            $notifyClass = 'errordiv';
+        } else {
+            $toEmail = 'info@gungmichael.my.id';
+            $emailSubject = 'Pesan dari '.$name;
+            $htmlContent = '<h2>via Form Kontak Website</h2>
+                            <h4>Nama</h4><p>'.$name.'</p>
+                            <h4>Email</h4><p>'.$email.'</p>
+                            <h4>Message</h4><p>'.$message.'</p>';
+
+            $headers = "Mike Studios Mailing System 1.0" . "\r\n";
+            $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+
+            $headers.= 'From: ' .$name.'<'.$email.'>'."\r\n";
+
+            if (mail($toEmail, $emailSubject, $htmlContent,$headers)) {
+                $notify = 'Pesan anda terkirim dengan Sukses!';
+                $notifyClass = 'succdiv';
+            } else {
+                $notify = 'Maaf! Pesan anda Gagal Terkirim, coba lagi!';
+                $notifyClass = 'errordiv';
+            }
+        }
+    } else {
+        $notify = 'Harap mengisi semua field data';
+        $notifyClass = 'errordiv';
+    }
+}
+?>

@@ -35,6 +35,22 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
+            <div class="col mb-4">
+                    <div><a href="https://www.instagram.com/reel/Cp8P9goAgAl/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/projects/encoremall.jpeg" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">J-Events</span>
+                            <h4 class="fw-bold">モールで Coswalk Competition</h4>
+                            <p class="text-muted">Saya dan komunitas Kameko Bali turut ambil bagian menjadi tim dokumentasi dalam acara parade cosplay yang digelar oleh komunitas Encore Alastair pada (18/3/23) di Artasedana Ngurah Rai, Singaraja.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-4">
+                    <div><a href="/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/projects/stsby1.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Events</span>
+                            <h4 class="fw-bold">STSBY Kesanga</h4>
+                            <p class="text-muted">Sebagai tim dokumentasi pada kegiatan pengarakan ogoh-ogoh di Banjar Dinas Bangbang, Rendang.</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="col mb-4">
                     <div><a href="https://www.instagram.com/p/Cg1XoBSLblZ/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/crehaprojects.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">J-Events</span>
@@ -52,7 +68,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="https://www.instagram.com/p/CfWdP6jLHYF/"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/ptividprofil.png" style="height: 250px;"></a>
+                    <div><a href="https://www.youtube.com/watch?v=vAHPyN2ddnw&t=41s"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/products/ptividprofil.png" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Video Projects</span>
                             <h4 class="fw-bold">Produksi Video Profil Prodi di Undiksha</h4>
                             <p class="text-muted">Saya juga menjadi bagian dari Tim Video Akreditasi Internasional Undiksha, dimana saya dan tim telah memproduksi beberapa video profil prodi, dan fakultas untuk mendukung proses akreditasi internasional Undiksha.</p>
@@ -101,6 +117,22 @@
                         </div>
                     </div>
                 </div>
+                <div class="col mb-4">
+                    <div><a href="https://www.youtube.com/playlist?list=PL-lm8ezwTkPnMvJSLjJdoxtOkBxV2M6ay"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/projects/talkshow.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Freelance Projects</span>
+                            <h4 class="fw-bold">Talkshow Edukasi Covid-19</h4>
+                            <p class="text-muted">Saya berkesempatan langsung dalam menghandle keseluruhan jalannya talkshow yang dibuat oleh Tim Balipuspanews.com serangkaian dengan edukasi Covid-19.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-4">
+                    <div><a href="https://www.youtube.com/playlist?list=PL-lm8ezwTkPnKQxZSqRwUILNIYiE2RdNn"><img class="rounded img-fluid shadow w-100 fit-cover" src="assets/img/projects/motiongraphics.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Freelance Projects</span>
+                            <h4 class="fw-bold">Motion Graphics Edukasi Covid-19</h4>
+                            <p class="text-muted">Saya dan tim berkesempatan langsung dalam menghandle pembuatan Motion Graphics untuk Balipuspanews.com serangkaian dengan edukasi Covid-19.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -110,17 +142,17 @@
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
                     <h3 class="fs-6 fw-bold">Services</h3>
                     <ul class="list-unstyled">
-                        <li><a href="#">Photographer</a></li>
-                        <li><a href="#">Videographer</a></li>
-                        <li><a href="#">PC Repairer</a></li>
+                        <li><a href="#contacts">Contacts</a></li>
+                        <li><a href="http://www.google.com/policies/privacy">Privacy Policy</a></li>
+                        <li><a href="sitemap.php">Sitemap</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
-                    <h3 class="fs-6 fw-bold">About</h3>
+                    <h3 class="fs-6 fw-bold">Other Sites</h3>
                     <ul class="list-unstyled">
-                        <li><a href="#">Myself</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="https://blog.gungmichael.my.id/">Blog</a></li>
+                        <li><a href="https://repair.gungmichael.my.id/">Mike Computer</a></li>
+                        <li><a href="https://jokiby.gungmichael.my.id/">Joki by Gung Michael</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 offset-xl-2 text-center text-lg-start d-flex flex-column align-items-center order-first align-items-lg-start order-lg-last item social">
@@ -131,7 +163,7 @@
             </div>
             <hr>
             <div class="text-muted d-flex justify-content-between align-items-center pt-3">
-                <p class="mb-0">Copyright © 2023 Mike Swisnandya</p>
+            <p class="mb-0">Copyright &copy; <script>document.write(new Date().getFullYear())</script> Mike Swisnandya</p>
                 <ul class="list-inline mb-0">
                     <a class="list-inline-item" href="https://www.facebook.com/gungmichael" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-facebook">
                             <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"></path>

@@ -70,19 +70,19 @@
         <div class="container py-4 py-lg-5">
             <div class="row justify-content-center">
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
-                    <h3 class="fs-6 fw-bold">Competences</h3>
+                    <h3 class="fs-6 fw-bold">Services</h3>
                     <ul class="list-unstyled">
-                        <li><a href="#">Photographer</a></li>
-                        <li><a href="#">Videographer</a></li>
-                        <li><a href="#">PC Repairer</a></li>
+                        <li><a href="#contacts">Contacts</a></li>
+                        <li><a href="http://www.google.com/policies/privacy">Privacy Policy</a></li>
+                        <li><a href="sitemap.php">Sitemap</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
-                    <h3 class="fs-6 fw-bold">About</h3>
+                    <h3 class="fs-6 fw-bold">Other Sites</h3>
                     <ul class="list-unstyled">
-                        <li><a href="#">Myself</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="https://blog.gungmichael.my.id/">Blog</a></li>
+                        <li><a href="https://repair.gungmichael.my.id/">Mike Computer</a></li>
+                        <li><a href="https://jokiby.gungmichael.my.id/">Joki by Gung Michael</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 offset-xl-2 text-center text-lg-start d-flex flex-column align-items-center order-first align-items-lg-start order-lg-last item social">
@@ -93,7 +93,7 @@
             </div>
             <hr>
             <div class="text-muted d-flex justify-content-between align-items-center pt-3">
-                <p class="mb-0">Copyright © 2023 Mike Swisnandya</p>
+                <p class="mb-0">Copyright &copy; <script>document.write(new Date().getFullYear())</script> Mike Swisnandya</p>
                 <ul class="list-inline mb-0">
                     <a class="list-inline-item" href="https://www.facebook.com/gungmichael" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-facebook">
                             <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"></path>

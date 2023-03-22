@@ -4,52 +4,65 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Gallery - Mike Swisnandya</title>
+    <title>Home - Mike Swisnandya</title>
     <meta name="description" content="Photography Portfolios">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/Inter.css">
     <link rel="stylesheet" href="assets/css/Articles-Badges.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.css">
-</head>
+    <link rel="icon" href="assets/img/logoonlymikecomputer-01.png" type="image/x-icon">
 
-<body>
-    <nav class="navbar navbar-light navbar-expand-md fixed-top navbar-shrink py-3" id="mainNav">
+  </head>
+
+  <body>
+  <nav class="navbar navbar-light navbar-expand-md fixed-top navbar-shrink py-3" id="mainNav">
         <div class="container"><a class="navbar-brand d-flex align-items-center" href="/">
-                    
-                    </svg></span><span>Mike Swisnandya</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                </span><span>Mike Swisnandya</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="competences.php">Competences</a></li>
                     <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contacts">Contacts</a></li>
                 </ul>
             </div>
         </div>
     </nav>
-    <section class="py-5 mt-5">
-        <section class="photo-gallery py-4 py-xl-5">
-            <div class="container">
-                <div class="row mb-5">
-                    <div class="col-md-8 col-xl-6 text-center mx-auto">
-                        <h2>Gallery</h2>
-                    </div>
-                </div>
-                <div class="row gx-2 gy-2 row-cols-1 row-cols-md-2 row-cols-xl-3 photos" data-bss-baguettebox="">
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/yeyo4.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/1_1.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/yeyo.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/crehaprojects.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/yeyo3.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/yeyo2.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/3_1.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/2_1.jpg"></a></div>
-                    <div class="col item"><a href="#"><img class="img-fluid" src="assets/img/products/4_1.jpeg"></a></div>
-                </div>
-            </div>
-        </section>
-    </section>
-    <footer class="bg-primary-gradient">
+
+    <section>
+    <div class="container pt-5">
+  <div class="row pt-5">
+    <div class="col-md-12">
+      <nav>gungmichael.my.id HTML Site Map</nav>
+      <h3 class="pb-2">
+        <span>Last updated: 2023, March 22<br>
+        Total pages: 5</span><br>
+        <a href="https://gungmichael.my.id">gungmichael.my.id Homepage</a>
+      </h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12" id="cont">
+      <ul class="list-unstyled level-0">
+        <li class="lhead">/  <span class="lcount">5 pages</span></li>
+        <li class="lpage"><a href="https://gungmichael.my.id/" title="Home - Mike Swisnandya">Home - Mike Swisnandya</a></li>
+        <li class="lpage"><a href="https://gungmichael.my.id/index.php" title="Home - Mike Swisnandya">Home - Mike Swisnandya</a></li>
+        <li class="lpage"><a href="https://gungmichael.my.id/competences.php" title="Competences - Mike Swisnandya">Competences - Mike Swisnandya</a></li>
+        <li class="lpage"><a href="https://gungmichael.my.id/projects.php" title="Projects - Mike Swisnandya">Projects - Mike Swisnandya</a></li>
+        <li class="lpage last-page"><a href="https://gungmichael.my.id/gallery.php" title="Gallery - Mike Swisnandya">Gallery - Mike Swisnandya</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12" id="footer">
+      Page created with <a target="_blank" href="https://www.xml-sitemaps.com">Google XML Sitemap and HTML Sitemaps Generator</a> | Copyright &copy; 2005-2023 XML-Sitemaps.
+    </div>
+  </div>
+</div>
+</section>
+
+<footer class="bg-primary-gradient">
         <div class="container py-4 py-lg-5">
             <div class="row justify-content-center">
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
@@ -57,7 +70,7 @@
                     <ul class="list-unstyled">
                         <li><a href="#contacts">Contacts</a></li>
                         <li><a href="http://www.google.com/policies/privacy">Privacy Policy</a></li>
-                        <li><a href="sitemap.php">Sitemap</a></li>
+                        <li><a href="sitemap.xml">Sitemap</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">
@@ -91,11 +104,15 @@
             </div>
         </div>
     </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.js"></script>
     <script src="assets/js/bold-and-bright.js"></script>
     <script src="assets/js/Lightbox-Gallery.js"></script>
+  
 </body>
 
 </html>
+
+
